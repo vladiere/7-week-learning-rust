@@ -95,15 +95,15 @@ In the final week, you'll tackle advanced Rust topics and work on larger project
 
 Upon completing the 7 weeks of practice, here are five final projects to demonstrate your Rust skills:
 
-1. **Web Backend with Rocket**: Build a RESTful API using the Rocket web framework to handle HTTP requests and interact with a database.
+1. **Web Backend with Axum**: Build a RESTful API using the Axum web framework to handle HTTP requests and interact with a database.
 
-2. **Web Frontend with Yew**: Create a single-page web application using the Yew framework for frontend development, communicating with your backend API.
+2. **Web Frontend with Leptos**: Create a single-page web application using the Yew framework for frontend development, communicating with your backend API.
 
 3. **CLI Todo Application**: Develop a command-line interface (CLI) application for managing todo lists, allowing users to add, delete, and update tasks from the terminal.
 
 4. **Image Processing Tool**: Build a tool for processing images, applying filters, resizing, and other transformations using Rust's image processing libraries.
 
-5. **Chat Server with Actix and WebSocket**: Implement a simple chat server using the Actix web framework and WebSocket protocol, allowing multiple users to communicate in real-time.
+5. **Chat Server with Axum and WebSocket**: Implement a simple chat server using the Actix web framework and WebSocket protocol, allowing multiple users to communicate in real-time.
 
 Feel free to customize these projects or come up with your own ideas to showcase your Rust skills and creativity!
 
